@@ -85,3 +85,15 @@ header{
     height: 150px;
     width: 150px;
 }
+
+
+
+footer{
+    position: absolute;
+    bottom: 0px;
+    color: white;
+    font-size: 20px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
