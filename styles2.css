@@ -9,7 +9,7 @@
 
 .container{
     max-width: 1000px;
-    height: 150px;
+    height: 100px;
     display: flex;
     margin: 0 auto;
     align-items: center;
@@ -19,7 +19,7 @@
 header{
     background-color: black;
     width: 100%;
-    padding: 1px;
+    padding: 0,1px;
 }
 
 .logo, .sociais{
@@ -27,7 +27,7 @@ header{
 }
 
 .logo img{
-    width: 65px;
+    width: 45px;
 }
 
 .menu{
